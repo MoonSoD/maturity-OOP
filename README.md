@@ -1,0 +1,1 @@
+**spustíme v koreňovom adresári projektu (OOP_py)** napr.: `python dedicnost_pristupove_metody/B/main.py`
